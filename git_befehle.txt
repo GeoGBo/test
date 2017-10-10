@@ -1,0 +1,12 @@
+git init -- Initialisierung
+git status  -- was ist gerade los? warum verhält es sich, wie es sich verhält?
+git log -- Anzeige bisheriger Commits
+git blame -- wer hat wann warum was verändert?
+git add -- Datei der Staging Area hinzufügen
+git commit -- Commit hinzufügen
+git config -- Git konfigurieren
+git config --global user.email "seggl@mail.ru"
+git config --global user.name "Seggle"
+vim *txt -- Code bearbeiten
+:q! -- VIM verlassen
+:wq -- VIM speichern und verlassen
