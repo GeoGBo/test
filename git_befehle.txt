@@ -9,4 +9,6 @@ git config --global user.email "seggl@mail.ru"
 git config --global user.name "Seggle"
 vim *txt -- Code bearbeiten
 :q! -- VIM verlassen
-:wq -- VIM speichern und verlassen, zuerst ESC betätigen
+:wq -- VIM speichern und verlassen
+git checkout *HASH-- Zustand an bestimmtem Commit/Hash anzeigen
+git checkout master -- Zurück an den Master
